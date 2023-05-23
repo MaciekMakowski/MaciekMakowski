@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maciek Makowski=======================================================================================================================================Frontend develepor------------------I am a computer science student who specialize in frontend, my main working environment is React and HTML with CSS and JS.* 🚀  I'm currently working on [Kanban Table APP, and Medical Clicnic App](http://github.com/MaciekMakowski)* 🧠  I'm learning ReactJS with TypeScript
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maciek Makowski
+Frontend develepor
+I am a computer science student who specialize in frontend, my main working environment is React and HTML with CSS and JS.* 🚀  I'm currently working on [Kanban Table APP, and Medical Clicnic App](http://github.com/MaciekMakowski)* 🧠  I'm learning ReactJS with TypeScript
 
 ### Skills
 
