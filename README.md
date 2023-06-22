@@ -14,16 +14,17 @@
 
 ###
 
-<h3 align="left">🛠My Skills</h3>
-
-###
-
-
 🔗 Links
 ###
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maciejmakowski.dev/)
 
 ###
+
+
+<h3 align="left">🛠My Skills</h3>
+
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
