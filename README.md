@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I am a bachelor of engineering in computer science who specialize in javascript, my main working environment for now is React, Typescript, Javascript and Figma.</p>
+<p align="left"> I hold a Bachelor of Engineering degree in Computer Science and specialize in JavaScript. My main working environment currently includes React, TypeScript, JavaScript, and Figma.</p>
 
 ###
 
-<p align="left">🧠  I'm learning about artificial intelligence</p>
+<p align="left">🧠 Currently, I'm learning about artificial intelligence.</p>
 
 ###
 
