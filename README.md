@@ -1,18 +1,15 @@
-<h2 align="left">Hi 👋! My name is Maciek Makowski and I'm a Frontend developer.</h2>
+<h2 align="left">Hi 👋! My name is Maciek Makowski and I'm a Javascript developer.</h2>
 
 ###
 
-<p align="left">I am a computer science student who specialize in frontend, my main working environment is React and HTML with CSS and JS.</p>
+<p align="left">I am a bachelor of engineering in computer science who specialize in javascript, my main working environment for now is React, Typescript, Javascript and Figma.</p>
 
 ###
 
-<p align="left">🧠  I'm learning ReactJS with TypeScript</p>
+<p align="left">🧠  I'm learning about artificial intelligence</p>
 
 ###
 
-<p align="left">🚀 I'm currently working on Pet shelter App</p>
-
-###
 
 🔗 Links
 ###
